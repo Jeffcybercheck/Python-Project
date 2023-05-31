@@ -19,7 +19,7 @@ Project consists of a Python script that analyze all the motor vehicle crashes i
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Imporingt the Libraries: <br/>
+Importing the Libraries: <br/>
 <img src="https://i.imgur.com/zq051YB.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
